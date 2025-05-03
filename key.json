@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id",
+    "key": "key1",
+    "expiresAt": "2025-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "id",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  }
+]
